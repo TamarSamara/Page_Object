@@ -1,0 +1,11 @@
+2022-08-20 00:32:43 [33mWARNING[0m Error not fount title "My Store"
+2022-08-20 00:32:48 [33mWARNING[0m Error not fount title "Login - My Store"
+2022-08-20 00:32:56 [33mWARNING[0m Error not fount title "My account - My Store"
+2022-08-20 00:33:01 [33mWARNING[0m Error not fount title "Search - My Store"
+2022-08-20 00:33:17 [33mWARNING[0m Error not fount title 2 "My account - My Store"
+2022-08-20 00:33:21 [33mWARNING[0m Error not fount text in the body "SHOPPING-CART SUMMARY"
+2022-08-20 00:33:25 [33mWARNING[0m Error not fount text in the body "ADDRESSES"
+2022-08-20 00:33:28 [33mWARNING[0m Error not fount text in the body "SHIPPING"
+2022-08-20 00:33:37 [33mWARNING[0m Error not fount "Order - My Store" in the title 
+2022-08-20 00:33:39 [33mWARNING[0m Error not fount "My Store" in the title
+2022-08-20 00:33:39 [33mWARNING[0m  Error not found title "My Store"
