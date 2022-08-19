@@ -29,7 +29,6 @@ def check_account(email, password):
     # time.sleep(3)
     driver = AuthenticationPage(dress_driver.click_sign_in())
     # time.sleep(3)
-    # driver.submit_form(email, password)
     driver.send_email(email)
     # time.sleep(3)
     driver.send_password(password)
@@ -44,7 +43,7 @@ def check_account(email, password):
 @pytest.mark.passed
 def test_Forgot_your_password_exists():
     """
-    Check if "Login - My Store" is in the title
+    Check if forgot your title exists
     passed
     """
     dress_driver = Start_BuyDress_Page()
@@ -69,7 +68,7 @@ def test_valid_email_valid_password(account):
 @pytest.mark.failed
 def test_wrong_email_wrong_password():
     """
-    Check valid email and wrong password
+    Check wrong email and wrong password
     Error message: "Authentication failed."
     failed
     """
